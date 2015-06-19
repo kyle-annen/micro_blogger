@@ -7,5 +7,6 @@ Run script
     $ruby micro_blogger.rb
     
 To Tweet: use t tag prior to message
+
     t This is a tweet!
     
